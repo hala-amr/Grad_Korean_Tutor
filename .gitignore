@@ -1,0 +1,13 @@
+Datasets/
+scorer_results/
+*.pt
+*.pth
+*.h5
+*.pkl
+*.zip
+*.rar
+*.mp4
+*.wav
+*.mp3
+pycache/
+.ipynb_checkpoints/
